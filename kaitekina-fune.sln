@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{932A8996-2628-485E-991B-B7A9F3860C49}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kaitekina-fune", "kaitekina-fune\kaitekina-fune.vcxproj", "{14ED8665-8DFF-4BEC-9D32-067CFF0F80BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14ED8665-8DFF-4BEC-9D32-067CFF0F80BB}.Debug|x64.ActiveCfg = Debug|x64
+		{14ED8665-8DFF-4BEC-9D32-067CFF0F80BB}.Debug|x64.Build.0 = Debug|x64
+		{14ED8665-8DFF-4BEC-9D32-067CFF0F80BB}.Release|x64.ActiveCfg = Release|x64
+		{14ED8665-8DFF-4BEC-9D32-067CFF0F80BB}.Release|x64.Build.0 = Release|x64
+		{932A8996-2628-485E-991B-B7A9F3860C49}.Debug|x64.ActiveCfg = Debug|x64
+		{932A8996-2628-485E-991B-B7A9F3860C49}.Debug|x64.Build.0 = Debug|x64
+		{932A8996-2628-485E-991B-B7A9F3860C49}.Release|x64.ActiveCfg = Release|x64
+		{932A8996-2628-485E-991B-B7A9F3860C49}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96DFA4A0-3BEE-413C-9230-7AA49D0769A5}
+	EndGlobalSection
+EndGlobal
